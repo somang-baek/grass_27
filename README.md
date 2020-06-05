@@ -5,4 +5,4 @@
 Micah7_8.txt
 
 ## daily
-논리설계퀴즈후기.txt
+논설퀴즈후기.txt
